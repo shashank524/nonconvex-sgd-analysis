@@ -30,7 +30,7 @@ Where ℓ is the smoothness parameter, Δ is the initial function gap, σ² is t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nonconvex-sgd-analysis.git
+git clone https://github.com/shashank524/nonconvex-sgd-analysis.git
 cd nonconvex-sgd-analysis
 ```
 
